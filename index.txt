@@ -1,0 +1,30 @@
+
+lorem ipsum - its give us dummy text for web pages
+lorem*2 = 2 line of dummy text dega 
+lorem2 = is given 2 dummy words
+CSS -( Cascading style sheet) Website ko style dene ke liye use karte hai
+
+WEB PAGES - we can serveer our all content like-
+video,text,audio,imgs p,h1 in singal doc on 
+web  browser are called web pages...
+
+Website - collection of web pages are called website 
+
+CSS ko 3 tareeke se use kar sakte hai 
+1 - inline CSS- we use inline css in html tab
+2 - internal CSS -  wr write css inside the style container tag
+3 - external css - style . scc naam ka new file banana padta hai 
+ . is main ham saare css code likhenge 
+ . hame html ko scc file ka location batana padtaa hai 
+
+
+
+
+ id attribute - agar hamein kisi eliment ko uniq featuers dena ho to ham id use karenge...
+ ham id ko # ke saath  target karte hai 
+
+ 
+ class attribute -ager ham sem fecher ak se jada eliment ko dena ho to ham class ka use karenge  
+ ham class ko dot ke sath
+ note = ham class or id dono ak hi teg me use kar sakte he 
+ note = ager ham ak teg ko class or id dono de du to 
